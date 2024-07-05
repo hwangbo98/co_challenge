@@ -22,5 +22,5 @@ height.sort()
 subtracted_width = [width[i+1] - width[i] for i in range(len(width) - 1)]
 subtracted_height = [height[i+1] - height[i] for i in range(len(height) - 1)]
 # print(subtracted_width, subtracted_height)
-
+ 
 print(max(subtracted_height) * max(subtracted_width))
