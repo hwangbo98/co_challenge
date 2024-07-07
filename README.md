@@ -8,8 +8,4 @@
 | 2024-07-05 | [백준 11576번](https://github.com/hwangbo98/co_challenge/blob/main/implementation/B11576.py) |
 | 2024-07-05 | [백준 2628번](https://github.com/hwangbo98/co_challenge/blob/main/implementation/B2628.py) |
 | 2024-07-05 | [백준 5800번](https://github.com/username/repository/blob/main/problems/problem3.md) |
-
-<<<<<<< HEAD
-계속 업데이트됩니다!| 2024-07-07 | [백준 25314번](https://github.com/hwangbo98/co_challenge/blob/main/implementation/B25314.py) |
-=======
->>>>>>> 04b9371 (README)
+| 2024-07-07 | [백준 25314번](https://github.com/hwangbo98/co_challenge/blob/main/implementation/B25314.py) |
