@@ -20,3 +20,4 @@ for i in range(N) :
             cnt+=1
 
 print(*result)
+##
