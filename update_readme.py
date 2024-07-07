@@ -40,11 +40,19 @@ if match:
 
         # README에 새 항목 추가
         new_entry = f"| {today} | [{problem_name}]({problem_link}) |\n"
-        for i, line in enumerate(readme_content):
-            if line.startswith('| 날짜       | 문제       |'):
-                readme_content.insert(i + 2, new_entry)
-                break
+        if new_entry not in readme_content:  # 이미 추가된 항목인지 확인
+            # 맨 밑에 항목 추가
+            for i, line in enumerate(readme_content):
+                if line.startswith('| 날짜       | 문제       |'):
+                    readme_content.append(new_entry)
+                    break
 
-        with open(readme_path, 'w') as file:
-            file.writelines(readme_content)
-        break
+            with open(readme_path, 'w') as file:
+                file.writelines(readme_content)
+            break
+
+# 추가된 변경 사항이 없을 경우 "Nothing to commit" 메시지 출력
+if new_entry in readme_content:
+    print("Nothing to commit")
+else:
+    print("Updated README with new problem")
