@@ -9,3 +9,4 @@
 | 2024-07-05 | [백준 2628번](https://github.com/hwangbo98/co_challenge/blob/main/implementation/B2628.py) |
 | 2024-07-05 | [백준 5800번](https://github.com/username/repository/blob/main/problems/problem3.md) |
 | 2024-07-07 | [백준 25314번](https://github.com/hwangbo98/co_challenge/blob/main/implementation/B25314.py) |
+| 2024-07-07 | [백준 1138번](https://github.com/hwangbo98/co_challenge/blob/main/implementation/B1138.py) |
