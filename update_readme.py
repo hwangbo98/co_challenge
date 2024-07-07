@@ -41,10 +41,10 @@ if match:
         # README에 새 항목 추가
         new_entry = f"| {today} | [{problem_name}]({problem_link}) |\n"
         if new_entry not in readme_content:  # 이미 추가된 항목인지 확인
-            # 맨 밑에 항목 추가
-            for i, line in enumerate(readme_content):
-                if line.startswith('| 날짜       | 문제       |'):
-                    readme_content.append(new_entry)
+            # 가장 맨 밑에 위치한 날짜 문제 항목의 아래에 추가
+            for i in range(len(readme_content) - 1, -1, -1):
+                if readme_content[i].startswith('|') and '|' in readme_content[i]:
+                    readme_content.insert(i + 1, new_entry)
                     break
 
             with open(readme_path, 'w') as file:
