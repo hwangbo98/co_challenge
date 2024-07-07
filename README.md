@@ -4,6 +4,7 @@
 
 | 날짜       | 문제       |
 |------------|------------|
+| 2024-07-07 | [백준 28358번](https://github.com/hwangbo98/co_challenge/blob/main/implementation/B28358.py) |
 | 2024-07-05 | [백준 11576번](https://github.com/hwangbo98/co_challenge/blob/main/implementation/B11576.py) |
 | 2024-07-05 | [백준 2628번](https://github.com/hwangbo98/co_challenge/blob/main/implementation/B2628.py) |
 | 2024-07-05 | [백준 5800번](https://github.com/username/repository/blob/main/problems/problem3.md) |
