@@ -4,9 +4,9 @@
 
 | 날짜       | 문제       |
 |------------|------------|
-| 2024-07-05 | [백준 11576](https://github.com/hwangbo98/co_challenge/blob/main/implementation/B11576.py) |
-| 2024-07-05 | [백준 2628](https://github.com/hwangbo98/co_challenge/blob/main/implementation/B2628.py) |
-| 2024-07-03 | [문제 3](https://github.com/username/repository/blob/main/problems/problem3.md) |
+| 2024-07-05 | [백준 11576번](https://github.com/hwangbo98/co_challenge/blob/main/implementation/B11576.py) |
+| 2024-07-05 | [백준 2628번](https://github.com/hwangbo98/co_challenge/blob/main/implementation/B2628.py) |
+| 2024-07-05 | [백준 5800번](https://github.com/username/repository/blob/main/problems/problem3.md) |
 | 2024-07-04 | [문제 4](https://github.com/username/repository/blob/main/problems/problem4.md) |
 | 2024-07-05 | [문제 5](https://github.com/username/repository/blob/main/problems/problem5.md) |
 
