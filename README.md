@@ -11,4 +11,4 @@
 | 2024-07-04 | [문제 4](https://github.com/username/repository/blob/main/problems/problem4.md) |
 | 2024-07-05 | [문제 5](https://github.com/username/repository/blob/main/problems/problem5.md) |
 
-계속 업데이트됩니다!
+계속 업데이트됩니다!| 2024-07-07 | [백준 25314번](https://github.com/hwangbo98/co_challenge/blob/main/implementation/B25314.py) |
