@@ -16,5 +16,5 @@ for _ in range(N) :
 
 sorted_birthday = sorted(birthday_dict.items(), key = lambda x : x[1])
 
-print(sorted_birthday[0][0])
 print(sorted_birthday[-1][0])
+print(sorted_birthday[0][0])
