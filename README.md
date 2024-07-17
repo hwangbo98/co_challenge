@@ -14,3 +14,4 @@
 | 2024-07-08 | [백준 5635번](https://github.com/hwangbo98/co_challenge/blob/main/implementation/B5635.py) |
 | 2024-07-08 | [백준 10973번](https://github.com/hwangbo98/co_challenge/blob/main/implementation/B10973.py) |
 | 2024-07-17 | [1급 1번문제](https://github.com/hwangbo98/co_challenge/blob/main/COS/1-1.py) |
+| 2024-07-17 | [1급 2번문제](https://github.com/hwangbo98/co_challenge/blob/main/COS/1-2.py) |
