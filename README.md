@@ -17,3 +17,4 @@
 | 2024-07-17 | [1급 2번문제](https://github.com/hwangbo98/co_challenge/blob/main/COS/1-2.py) |
 | 2024-07-18 | [백준 2747번](https://github.com/hwangbo98/co_challenge/blob/main/DP/B2747.py) |
 | 2024-07-18 | [백준 9655번](https://github.com/hwangbo98/co_challenge/blob/main/DP/B9655.py) |
+| 2024-08-19 | [LeetCode Employee_Importance](https://github.com/hwangbo98/co_challenge/blob/main/LeetCode/Employee_Importance.py) |
