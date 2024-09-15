@@ -19,3 +19,4 @@
 | 2024-07-18 | [백준 9655번](https://github.com/hwangbo98/co_challenge/blob/main/DP/B9655.py) |
 | 2024-08-19 | [LeetCode Employee_Importance](https://github.com/hwangbo98/co_challenge/blob/main/LeetCode/Employee_Importance.py) |
 | 2024-08-21 | [LeetCode SumofLeftLeaves](https://github.com/hwangbo98/co_challenge/blob/main/LeetCode/SumofLeftLeaves.py) |
+| 2024-09-15 | [LeetCode SearchInsert](https://github.com/hwangbo98/co_challenge/blob/main/LeetCode/Search_Insert_Position) |
