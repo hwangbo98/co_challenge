@@ -21,3 +21,4 @@
 | 2024-08-21 | [LeetCode SumofLeftLeaves](https://github.com/hwangbo98/co_challenge/blob/main/LeetCode/SumofLeftLeaves.py) |
 | 2024-09-15 | [LeetCode SearchInsert](https://github.com/hwangbo98/co_challenge/blob/main/LeetCode/Search_Insert_Position) |
 | 2024-09-15 | [LeetCode Maximum Depth of Binary Tree](https://github.com/hwangbo98/co_challenge/blob/main/LeetCode/MaximumDepthBT.PY) |
+| 2024-09-16 | [LeetCode Diameter of Binary Tree](https://github.com/hwangbo98/co_challenge/blob/main/LeetCode/Diameter_BT.py) |
